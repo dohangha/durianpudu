@@ -415,6 +415,7 @@ left: 180px;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+  overflow: hidden;
 }
 
 .scroller__inner img{
