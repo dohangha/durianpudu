@@ -420,6 +420,7 @@ left: 180px;
 
 .scroller__inner img{
   width: 250px;
+  overflow: hidden;
 }
 
 .scroller[data-animated="true"] .scroller__inner {
