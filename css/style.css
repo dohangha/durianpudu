@@ -19,7 +19,9 @@ text-transform: uppercase;
 .navbar-brand {
 font-size: 1em;
 }
-
+#languageSwitcher a{
+  color: #000000;
+}
 .nav-link{
   color: #000000;
 }
