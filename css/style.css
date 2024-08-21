@@ -411,6 +411,20 @@ left: 180px;
       margin-bottom: 20px;
   }
 }
+#bg-light{
+  overflow: hidden;
+}
+@media(max-width: 991.5px) {
+  #bg-light{
+    overflow: hidden;
+  }
+  .scroller__inner img{
+    overflow: hidden;
+  }
+  .scroller__inner{
+    overflow: hidden;
+  }
+}
 
 .scroller__inner {
   padding-block: 1rem;
